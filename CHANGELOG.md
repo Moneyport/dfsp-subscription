@@ -1,3 +1,23 @@
+<a name="0.5.11"></a>
+## [0.5.11](https://github.com/softwaregroup-bg/@mojaloop/dfsp-subscription/compare/v0.5.10...v0.5.11) (2017-12-07)
+
+
+### Bug Fixes
+
+* move to mojaloop ([7ee4d18](https://github.com/softwaregroup-bg/@mojaloop/dfsp-subscription/commit/7ee4d18))
+
+
+
+<a name="0.5.10"></a>
+## [0.5.10](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-subscription/compare/v0.5.9...v0.5.10) (2017-11-29)
+
+
+### Bug Fixes
+
+* version bump ([53bc0c9](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-subscription/commit/53bc0c9))
+
+
+
 <a name="0.5.9"></a>
 ## [0.5.9](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-subscription/compare/v0.5.8...v0.5.9) (2017-10-13)
 
