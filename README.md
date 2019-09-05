@@ -1,6 +1,12 @@
-# Subscription service API
+# [DEPRECATED] Subscription service API
 
------
+## Deprecation Notice
+
+The Subscription service API was deprecated as of January 2018. This service is no longer maintained, and is no longer referenced by any releases of Mojaloop.
+
+For a list of active Mojaloop repos, please refer to [Repo Details](https://mojaloop.io/documentation/repositories/) section of the Mojaloop documentation.
+
+## Summary
 
 This service is used for mapping between the users and phone numbers. It is supporting the following **private** API calls:
 
